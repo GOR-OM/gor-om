@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Om Gor</h1>
 <h3 align="center">a passionate learner and software enthusiast from DAIICT College, India.</h3>
 <img align = "right"  width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
-- 🌱 Currently, **I'm exploring the realms of C++, Data Structures and Algorithms (DSA), and the exciting world of web development. I'm diving into the modern web stack with React, JavaScript, and Tailwind CSS, crafting dynamic and visually appealing user experiences.react,Node js , Tailwind**
+
+- 🌱 Currently **I'm exploring the realms of C++, Data Structures and Algorithms (DSA), and the exciting world of web development. I'm diving into the modern web stack with React, JavaScript, and Tailwind CSS, crafting dynamic and visually appealing user experiences.react,Node js , Tailwind**
 
 - ⚡ Fun fact **When I'm not coding, you can find me in virtual worlds, mastering digital realms and saving galaxies one pixel at a time! 🌌🕹️**
 
