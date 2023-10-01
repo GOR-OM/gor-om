@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Om Gor</h1>
-<h3 align="center">a passionate learner and software enthusiast from DAIICT College, India.</h3>
-<img align = "right"  width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<h3 align="center">A passionate learner and software enthusiast from DAIICT College, India.</h3>
+<img align = "right"  width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 - 🌱 Currently **I'm exploring the realms of C++, Data Structures and Algorithms (DSA), and the exciting world of web development. I'm diving into the modern web stack with React, JavaScript, and Tailwind CSS, crafting dynamic and visually appealing user experiences.react,Node js , Tailwind**
 
@@ -8,7 +8,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/om gor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="om gor" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/om gor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om gor" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/om_gor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="om_gor" height="30" width="40" /></a>
 </p>
