@@ -1,10 +1,23 @@
 <h1 align="center">Hi 👋, I'm Om Gor</h1>
-<h3 align="center">A passionate learner and software enthusiast from DAIICT College, India.</h3>
+<h3 align="center">🚀 I'm a passionate AI enthusiast and ML explorer from DA-IICT College, India. My journey is dedicated to unraveling the thrilling domains of Machine Learning (ML), Artificial Intelligence (AI), and the enchanting realm of data. I'm actively engaged in building and training models, as well as embarking on captivating data analysis projects.</h3>
 <img align = "right"  width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-- 🌱 Currently **I'm exploring the realms of C++, Data Structures and Algorithms (DSA), and the exciting world of web development. I'm diving into the modern web stack with React, JavaScript, and Tailwind CSS, crafting dynamic and visually appealing user experiences.react,Node js , Tailwind**
+## What I'm Currently Up To:
 
-- ⚡ Fun fact **When I'm not coding, you can find me in virtual worlds, mastering digital realms and saving galaxies one pixel at a time! 🌌🕹️**
+🔬 I'm diving deep into the world of ML, focusing on:
+- Developing and training machine learning models.
+- Exploring neural networks and deep learning.
+- Solving real-world problems using AI and data-driven approaches.
+
+🌐 In addition to my ML endeavors, I also have a background in web development and have experience with technologies like:
+- React
+- JavaScript
+- Node.js
+- Tailwind CSS
+
+## Fun Facts About Me:
+
+🌌 When I'm not immersed in code, I'm often exploring virtual worlds, not just as a gamer but also as a developer. I enjoy creating AI-driven experiences and enhancing virtual realms one algorithm at a time. You can often find me in the gaming universe, mastering digital realms, and saving galaxies one pixel at a time! 🎮🤖
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
