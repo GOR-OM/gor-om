@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Om Gor</h1>
-<h3 align="center">🚀 I'm a passionate AI enthusiast and ML explorer from DA-IICT College, India. My journey is dedicated to unraveling the thrilling domains of Machine Learning (ML), Artificial Intelligence (AI), and the enchanting realm of data. I'm actively engaged in building and training models, as well as embarking on captivating data analysis projects.</h3>
+<h3 align="center">🚀Welcome to my GitHub! I'm an enthusiastic MERN stack developer and an explorer of the fascinating worlds of Machine Learning (ML) and Artificial Intelligence (AI). Currently studying at DA-IICT College, India, my journey is dedicated to delving into the intricate realms of both front-end and back-end technologies.</h3>
 <img align = "right"  width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 ## What I'm Currently Up To:
 
-🔬 I'm diving deep into the world of ML, focusing on:
+👨‍💻 On the MERN side, I'm actively engaged in:
+
+- Designing seamless user interfaces with React.
+- Architecting efficient back-end systems using Node.js and Express.js.
+- Connecting the dots with MongoDB for data-driven decisions.
+
+🔬 Simultaneously, my focus in ML includes:
+
 - Developing and training machine learning models.
 - Exploring neural networks and deep learning.
-- Solving real-world problems using AI and data-driven approaches.
+- Applying AI and data-driven approaches to solve real-world problems.
 
-🌐 In addition to my ML endeavors, I also have a background in web development and have experience with technologies like:
-- React
-- JavaScript
-- Node.js
-- Tailwind CSS
 
 ## Fun Facts About Me:
 
