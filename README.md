@@ -27,11 +27,6 @@
 [![Keyur1284's GitHub stats](https://github-readme-stats.vercel.app/api?username=GOR-OM&show_icons=true&theme=radical)](https://github.com/GOR-OM)
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/om gor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om gor" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/om_gor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="om_gor" height="30" width="40" /></a>
-</p>
 
 ## 💼 Technical Skills
 
