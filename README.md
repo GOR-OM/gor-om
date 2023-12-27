@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Om Gor</h1>
+<h1  align="center"> <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px"/>  Hi <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="50px"/>, I'm Om Gor  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px"/> </h1> 
 <h3 align="center">🚀Welcome to my GitHub! I'm an enthusiastic MERN stack developer and an explorer of the fascinating worlds of Machine Learning (ML) and Artificial Intelligence (AI). Currently studying at DA-IICT College, India, my journey is dedicated to delving into the intricate realms of both front-end and back-end technologies.</h3>
 <img align = "right"  width="400" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
-## What I'm Currently Up To:
+
+
+## hat I'm Currently Up To:
 
 👨‍💻 On the MERN side, I'm actively engaged in:
 
@@ -60,7 +62,7 @@
 ## Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GOR-OM&theme=vision-friendly-darkshow_icons=true&layout=donut)
 
-## :fire: GitHub Streak Stats
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50px" /> GitHub Streak Stats
 --- 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GOR-OM&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
