@@ -3,7 +3,7 @@
 <img align = "right"  width="400" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 
 
-## hat I'm Currently Up To:
+## What I'm Currently Up To:
 
 👨‍💻 On the MERN side, I'm actively engaged in:
 
