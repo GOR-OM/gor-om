@@ -22,11 +22,24 @@
 
 🌌 When I'm not immersed in code, I'm often exploring virtual worlds, not just as a gamer but also as a developer. I enjoy creating AI-driven experiences and enhancing virtual realms one algorithm at a time. You can often find me in the gaming universe, mastering digital realms, and saving galaxies one pixel at a time! 🎮🤖
 
+
+
 ## 📊 GitHub Stats
 
- [![Activity graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GOR-OM&show_icons=true&theme=radical)](https://github.com/GOR-OM/)
-[![Keyur1284's GitHub stats](https://github-readme-stats.vercel.app/api?username=GOR-OM&show_icons=true&theme=radical)](https://github.com/GOR-OM)
+<p align="left"> 
+ 🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
+  <img src="https://profile-counter.glitch.me/GOR-OM/count.svg"/>
 
+ [![Activity graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GOR-OM&show_icons=true&theme=radical)](https://github.com/GOR-OM/)
+
+ <div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GOR-OM&custom_title=GOR-OM's%20GitHub%20Activity%20Graph&bg_color=141321&color=4084B4&line=21724B&point=4084B4&area_color=3EEEC8&title_color=4084B4&area=true" alt="GOR-OM's Github Activity Graph" width="100%"/>
+</div>
+
+[![GOR-OM's GitHub stats](https://github-readme-stats.vercel.app/api?username=GOR-OM&show_icons=true&theme=radical)](https://github.com/GOR-OM)
+
+
+<img src="github-user-contribution.svg" />
 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100px" />
@@ -66,8 +79,6 @@
 --- 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GOR-OM&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GOR-OM&custom_title=GOR-OM's%20GitHub%20Activity%20Graph&bg_color=141321&color=4084B4&line=21724B&point=4084B4&area_color=3EEEC8&title_color=4084B4&area=true" alt="GOR-OM's Github Activity Graph" width="100%"/>
-</div>
-   <img src="github-user-contribution.svg" />
+
+   
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" align="center" width="1000" />
