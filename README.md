@@ -69,5 +69,5 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GOR-OM&custom_title=GOR-OM's%20GitHub%20Activity%20Graph&bg_color=141321&color=4084B4&line=21724B&point=4084B4&area_color=3EEEC8&title_color=4084B4&area=true" alt="GOR-OM's Github Activity Graph" width="100%"/>
 </div>
-   <img src="contributions.svg" />
+   <img src="github-user-contribution.svg" />
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" align="center" width="1000" />
